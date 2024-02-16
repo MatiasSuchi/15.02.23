@@ -8,6 +8,6 @@ function verificarLogin() {
     if (txtLogin.value == login && txtSenha.value == senha) {
         console.log("Logado com sucesso!");
     }  else {
-        console.log ("Login ou senha incorretos! Digite e tente novamente")
+        console.log ("Login ou senha incorretos! Digite e tente novamente");
     }
 }
